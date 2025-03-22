@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.card h1 {
+    text-align: center;
+}
+  
+.card h6 {
+    text-align: center;
+}
+
+.Botao_Filtrar {
+    display: flex;
+    position: absolute; right: 0;
+    margin-right: 40px;
+}
+
+.linhainformacoes{
+    margin: 30px;
+}
+
+.LinhaEmbaixoTabela{
+    margin: 30px;
+}
+
+.btn_paginas{
+    display: flex;
+    position: absolute; right: 0;
+    margin-right: 30px;
+}
+
+.Centralizar{
+    text-align: center;
+}
